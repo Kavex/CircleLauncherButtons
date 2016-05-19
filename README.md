@@ -6,3 +6,5 @@ https://www.rainmeter.net/
 
 Cheers,
 Kerrigan
+
+------------------- Variables -------------------
