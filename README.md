@@ -21,6 +21,8 @@ Curse=["C:\Path\To\App.exe"]
 
 Diablo3=["C:\Program Files (x86)\Diablo III\Diablo III Launcher.exe"]
 
+Doom="steam://rungameid/379720"
+
 GarrysMod="steam://rungameid/4000"
 
 Github=["https://github.com/"]
@@ -31,9 +33,11 @@ MozillaThunderbird=["C:\Program Files (x86)\Mozilla Thunderbird\thunderbird.exe"
 
 Mumble=["C:\Program Files (x86)\Mumble\mumble.exe"]
 
-OBSStudio=["C:\Path\To\App.exe"]
+OBSStudio=["C:\Program Files (x86)\obs-studio\bin\32bit\obs32.exe"]
 
 osu!=["C:\Path\To\App.exe"]
+
+Overwatch=["C:\Program Files (x86)\Overwatch\Overwatch Launcher.exe"]
 
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
