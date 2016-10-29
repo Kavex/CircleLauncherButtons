@@ -15,6 +15,8 @@ AmazonMusic=["C:\Path\To\App.exe"]
 
 Aseprite="steam://rungameid/431730"
 
+ArcheAge="steam://rungameid/304030"
+
 Computer=["%SystemRoot%\explorer.exe"]
 
 Curse=["C:\Path\To\App.exe"]
@@ -46,6 +48,8 @@ StardewValley="steam://rungameid/413150"
 TheForest="steam://rungameid/242760"
 
 Undertale="steam://rungameid/391540"
+
+WorldofTanks=["C:\Path\To\App.exe"]
 
 WorldofWarcraft=["C:\Program Files (x86)\World of Warcraft\World of Warcraft Launcher.exe"]
 
