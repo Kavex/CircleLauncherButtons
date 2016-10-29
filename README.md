@@ -41,6 +41,8 @@ osu!=["C:\Path\To\App.exe"]
 
 Overwatch=["C:\Program Files (x86)\Overwatch\Overwatch Launcher.exe"]
 
+PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
+
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
 Squad=["C:\Path\To\App.exe"]
