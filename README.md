@@ -43,6 +43,8 @@ Overwatch=["C:\Program Files (x86)\Overwatch\Overwatch Launcher.exe"]
 
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
+Squad=["C:\Path\To\App.exe"]
+
 StardewValley="steam://rungameid/413150"
 
 TheForest="steam://rungameid/242760"
