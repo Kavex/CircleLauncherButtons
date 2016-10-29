@@ -9,6 +9,8 @@ Kerrigan
 
 ------------------- Variables -------------------
 
+Paste in the Variables and add the path
+
 AdobePhotoshop=["C:\Path\To\App.exe"]
 
 AmazonMusic=["C:\Path\To\App.exe"]
@@ -16,6 +18,8 @@ AmazonMusic=["C:\Path\To\App.exe"]
 Aseprite="steam://rungameid/431730"
 
 ArcheAge="steam://rungameid/304030"
+
+Balabolka=["C:\Program Files (x86)\Balabolka\balabolka.exe"]
 
 Computer=["%SystemRoot%\explorer.exe"]
 
