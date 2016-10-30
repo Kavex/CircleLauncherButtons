@@ -29,8 +29,6 @@ Diablo3=["C:\Program Files (x86)\Diablo III\Diablo III Launcher.exe"]
 
 Doom="steam://rungameid/379720"
 
-DrawingTablet=["C:\Path\To\App.exe"]
-
 GarrysMod="steam://rungameid/4000"
 
 Github=["https://github.com/"]
@@ -49,6 +47,8 @@ Overwatch=["C:\Program Files (x86)\Overwatch\Overwatch Launcher.exe"]
 
 PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
 
+Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
+
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
 Squad=["C:\Path\To\App.exe"]
@@ -58,6 +58,8 @@ StardewValley="steam://rungameid/413150"
 TheForest="steam://rungameid/242760"
 
 Undertale="steam://rungameid/391540"
+
+Winscp=["C:\Program Files (x86)\WinSCP\WinSCP.exe"]
 
 WorldofTanks=["C:\Path\To\App.exe"]
 
