@@ -51,6 +51,8 @@ Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
 
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
+AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
+
 Squad=["C:\Path\To\App.exe"]
 
 StardewValley="steam://rungameid/413150"
