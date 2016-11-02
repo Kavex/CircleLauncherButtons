@@ -1,6 +1,6 @@
 These are my Circle Launcher buttons I made for Lybrica's Rainmeter Skin
 
-[How to make your own buttons](https://github.com/Kavex/CircleLauncherButtons/wiki)
+[Guide on how to make Circle Buttons](https://github.com/Kavex/CircleLauncherButtons/wiki)
 
 http://Lybrica.deviantart.com/
 
