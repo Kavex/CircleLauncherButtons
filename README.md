@@ -1,5 +1,7 @@
 These are my Circle Launcher buttons I made for Lybrica's Rainmeter Skin
 
+[How to make your own buttons](https://github.com/Kavex/CircleLauncherButtons/wiki)
+
 http://Lybrica.deviantart.com/
 
 https://www.rainmeter.net/
@@ -15,9 +17,11 @@ AdobePhotoshop=["C:\Path\To\App.exe"]
 
 AmazonMusic=["C:\Path\To\App.exe"]
 
+ArcheAge="steam://rungameid/304030"
+
 Aseprite="steam://rungameid/431730"
 
-ArcheAge="steam://rungameid/304030"
+AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
 
 Balabolka=["C:\Program Files (x86)\Balabolka\balabolka.exe"]
 
@@ -50,8 +54,6 @@ PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
 Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
 
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
-
-AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
 
 Squad=["C:\Path\To\App.exe"]
 
