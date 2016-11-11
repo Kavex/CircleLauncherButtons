@@ -33,6 +33,8 @@ Diablo3=["C:\Program Files (x86)\Diablo III\Diablo III Launcher.exe"]
 
 Doom="steam://rungameid/379720"
 
+FieldNation=["https://fieldnation.com"]
+
 GarrysMod="steam://rungameid/4000"
 
 Github=["https://github.com/"]
