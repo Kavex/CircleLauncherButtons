@@ -47,6 +47,8 @@ MozillaThunderbird=["C:\Program Files (x86)\Mozilla Thunderbird\thunderbird.exe"
 
 Mumble=["C:\Program Files (x86)\Mumble\mumble.exe"]
 
+MusicBeeCurse=["C:\Path\To\App.exe"]
+
 OBSStudio=["C:\Program Files (x86)\obs-studio\bin\32bit\obs32.exe"]
 
 osu!=["C:\Path\To\App.exe"]
