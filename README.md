@@ -21,6 +21,8 @@ ArcheAge="steam://rungameid/304030"
 
 Aseprite="steam://rungameid/431730"
 
+Atom=["C:\Path\To\App.exe"]
+
 AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
 
 Balabolka=["C:\Program Files (x86)\Balabolka\balabolka.exe"]
