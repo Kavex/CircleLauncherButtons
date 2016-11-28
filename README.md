@@ -21,9 +21,9 @@ ArcheAge="steam://rungameid/304030"
 
 Aseprite="steam://rungameid/431730"
 
-Atom=["C:\Path\To\App.exe"]
-
 AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
+
+Atom=["C:\Path\To\App.exe"]
 
 Balabolka=["C:\Program Files (x86)\Balabolka\balabolka.exe"]
 
@@ -56,6 +56,8 @@ Overwatch=["C:\Program Files (x86)\Overwatch\Overwatch Launcher.exe"]
 PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
 
 Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
+
+RPGMaker=["C:\Path\To\App.exe"]
 
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
