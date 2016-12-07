@@ -37,9 +37,13 @@ Doom="steam://rungameid/379720"
 
 FieldNation=["https://fieldnation.com"]
 
+GameMakerStudio"steam://rungameid/214850"
+
 GarrysMod="steam://rungameid/4000"
 
 Github=["https://github.com/"]
+
+Krita=["C:\Program Files\Krita (x64)\bin\krita.exe"]
 
 MicrosoftVisualStudioCode=["C:\Path\To\App.exe"]
 
