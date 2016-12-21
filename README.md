@@ -1,5 +1,7 @@
 These are my Circle Launcher buttons I made for Lybrica's Rainmeter Skin
 
+[How to download from github](https://github.com/Kavex/CircleLauncherButtons/wiki/Download-zip-from-Github)
+
 [Guide on how to make Circle Buttons](https://github.com/Kavex/CircleLauncherButtons/wiki)
 
 http://Lybrica.deviantart.com/
@@ -52,6 +54,8 @@ MozillaThunderbird=["C:\Program Files (x86)\Mozilla Thunderbird\thunderbird.exe"
 Mumble=["C:\Program Files (x86)\Mumble\mumble.exe"]
 
 MusicBeeCurse=["C:\Path\To\App.exe"]
+
+Netflix=["http://netflix.com"]
 
 OBSStudio=["C:\Program Files (x86)\obs-studio\bin\32bit\obs32.exe"]
 
