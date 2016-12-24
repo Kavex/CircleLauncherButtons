@@ -1,5 +1,7 @@
 These are my Circle Launcher buttons I made for Lybrica's Rainmeter Skin
 
+[Circle Launcher 2.11 (Custom Verison)](https://github.com/Kavex/CircleLauncherButtons/archive/Custom-Launcher.zip)
+
 [How to download from github](https://github.com/Kavex/CircleLauncherButtons/wiki/Download-zip-from-Github)
 
 [Guide on how to make Circle Buttons](https://github.com/Kavex/CircleLauncherButtons/wiki)
@@ -44,6 +46,8 @@ GameMakerStudio"steam://rungameid/214850"
 GarrysMod="steam://rungameid/4000"
 
 Github=["https://github.com/"]
+
+Godot=["C:\Path\To\App.exe"]
 
 Krita=["C:\Program Files\Krita (x64)\bin\krita.exe"]
 
