@@ -75,6 +75,8 @@ RPGMaker=["C:\Path\To\App.exe"]
 
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
+Shadron=["C:\Path\To\App.exe"]
+
 Squad=["C:\Path\To\App.exe"]
 
 StardewValley="steam://rungameid/413150"
@@ -88,7 +90,6 @@ Winscp=["C:\Program Files (x86)\WinSCP\WinSCP.exe"]
 WorldofTanks=["C:\Path\To\App.exe"]
 
 WorldofWarcraft=["C:\Program Files (x86)\World of Warcraft\World of Warcraft Launcher.exe"]
-
 
 
 
