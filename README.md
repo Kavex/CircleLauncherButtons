@@ -85,6 +85,8 @@ TheForest="steam://rungameid/242760"
 
 Undertale="steam://rungameid/391540"
 
+Winamp=["C:\Path\To\App.exe"]
+
 Winscp=["C:\Program Files (x86)\WinSCP\WinSCP.exe"]
 
 WorldofTanks=["C:\Path\To\App.exe"]
