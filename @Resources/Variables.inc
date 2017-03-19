@@ -1,5 +1,25 @@
 [Variables]
 
+;;Folders;;
+DocumentsFolder=["C:\Users\USERNAME\Documents"]
+Downloads=["C:\Users\USERNAME\Downloads"]
+FileExplorer=["%SystemRoot%\explorer.exe"]
+Games=["C:\Path\To\App.exe"]
+GamesFolder=["C:\Path\To\App.exe"]
+MoviesFolder=["C:\Path\To\App.exe"]
+Pictures=["C:\Users\USERNAME\Pictures"]
+Server=["C:\Path\To\App.exe"]
+VideosFolder=["C:\Users\USERNAME\Videos"]
+
+;;System;;
+Calculator="calc.exe"]
+Computer=["%SystemRoot%\explorer.exe"]
+ControlPanel=[%SystemRoot%\system32\control.exe]
+RecycleBin=!execute [!RainmeterPluginBang "MeasureBinSize OpenBin"]
+;RecycleBin=["C:\Dropbox\Data\Shortcuts\Uninstall_Programs"] ;Uncomment this for "Uninstall programs"
+Search=["#CURRENTPATH#Search.exe"]
+Terminal=["cmd"]
+
 ;;ADOBE;;
 AfterEffects=["C:\Path\To\App.exe"]
 Audition=["C:\Path\To\App.exe"]
@@ -31,88 +51,83 @@ Publisher=["C:\Path\To\App.exe"]
 Visio=["C:\Path\To\App.exe"]
 Word=["C:\Path\To\App.exe"]
 
-;;Folders;
-Computer=["%SystemRoot%\explorer.exe"]
-DocumentsFolder=["C:\Users\USERNAME\Documents"]
-Downloads=["C:\Users\USERNAME\Downloads"]
-FileExplorer=["%SystemRoot%\explorer.exe"]
-Games=["C:\Path\To\App.exe"]
-GamesFolder=["C:\Path\To\App.exe"]
-MoviesFolder=["C:\Path\To\App.exe"]
-Pictures=["C:\Users\USERNAME\Pictures"]
-
-;;Programs;
+;;Audio/Video;;
 AbletonLive=["C:\Path\To\App.exe"]
 AmazonMusic=["C:\Path\To\App.exe"]
+Audacity=["C:\Path\To\App.exe"]
+FLStudio=["C:\Path\To\App.exe"]
+iTunes=["C:\Path\To\App.exe"]
+Kodi=["C:\Program Files (x86)\Kodi\Kodi.exe"]
+MusicBee=["C:\Path\To\App.exe"]
+PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
+Spotify=["C:\Users\USERNAME\AppData\Roaming\Spotify"]
+VLCMediaPlayer=["C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"]
+Winamp=["C:\Path\To\App.exe"]
+WindowsMediaPlayer=["%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe"]
+XBMC=["C:\Path\To\App.exe"]
+
+;;Browser;;
+Chrome=["C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"]
+MozillaFirefox=["C:\Path\To\App.exe"]
+Opera=["C:\Path\To\App.exe"]
+
+;;Development;;
 Android Studio=["C:\Path\To\App.exe"]
 AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
 Atom=["C:\Path\To\App.exe"]
-Audacity=["C:\Path\To\App.exe"]
+CodeBlocks=["C:\Path\To\App.exe"]
+Eclipse=["C:\Path\To\App.exe"]
+MicrosoftVisualStudio=["C:\Path\To\App.exe"]
+MicrosoftVisualStudioCode=["C:\Path\To\App.exe"]
+NotepadPlusPlus=["C:\Program Files (x86)\Notepad++\notpad++.exe"]
+Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
+ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
+SublimeText=["C:\Path\To\App.exe"]
+Winscp=["C:\Program Files (x86)\WinSCP\WinSCP.exe"]
+
+;;Graphics;;
+Aseprite="steam://rungameid/431730"
+Blender=["steam://rungameid/365670"]
+CinemaFourD=["C:\Path\To\App.exe"]
+Gimp=["C:\Program Files\GIMP 2\bin\gimp-2.8.exe"]
+Krita=["C:\Program Files\Krita (x64)\bin\krita.exe"]
+Shadron=["C:\Path\To\App.exe"]
+
+;;Torrent;;
+Bittorrent=["C:\Path\To\App.exe"]
+AAuTorrent=["C:\Users\Karl\AppData\Roaming\uTorrent\uTorrent.exe"]
+uTorrent=["%APPDATA%\uTorrent\uTorrent.exe"]
+
+;;Voice;;
+Discord=["C:\Path\To\App.exe"]
+Mumble=["C:\Program Files (x86)\Mumble\mumble.exe"]
+Skype=["C:\Program Files (x86)\Skype\Phone\Skype.exe"]
+Teamspeak=["C:\Path\To\App.exe"]
+
+;;OtherPrograms;;
 Avast=["C:\Path\To\App.exe"]
 AVG=["C:\Path\To\App.exe"]
 Balabolka=["C:\Program Files (x86)\Balabolka\balabolka.exe"]
-Bittorrent=["C:\Path\To\App.exe"]
-Blender=["steam://rungameid/365670"]
-Calculator="calc.exe"]
 CCleaner=["C:\Path\To\App.exe"]
-CinemaFourD=["C:\Path\To\App.exe"]
-CodeBlocks=["C:\Path\To\App.exe"]
-ControlPanel=[%SystemRoot%\system32\control.exe]
 Crazybump=["C:\Path\To\App.exe"]
-Curse=["C:\Users\USERNAME\AppData\Roaming\Curse Client\Bin\Curse.exe"]
 Dashlane=["C:\Path\To\App.exe"]
 Deluge=["C:\Path\To\App.exe"]
-Discord=["C:\Path\To\App.exe"]
 Dropbox=["C:\Path\To\App.exe"]
-Eclipse=["C:\Path\To\App.exe"]
 Evolve=["C:\Path\To\App.exe"]
-FLStudio=["C:\Path\To\App.exe"]
 Fraps=["C:\Path\To\App.exe"]
 GeForceExperience=["C:\Path\To\App.exe"]
-Gimp=["C:\Program Files\GIMP 2\bin\gimp-2.8.exe"]
-Chrome=["C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"]
 Hamachi=["C:\Program Files (x86)\LogMeIn Hamachi\hamachi-2-ui.exe"]
-iTunes=["C:\Path\To\App.exe"]
-Kodi=["C:\Program Files (x86)\Kodi\Kodi.exe"]
-Krita=["C:\Program Files\Krita (x64)\bin\krita.exe"]
 MadCatz=["C:\Path\To\App.exe"]
 Marvel=["C:\Path\To\App.exe"]
-MicrosoftVisualStudio=["C:\Path\To\App.exe"]
-MicrosoftVisualStudioCode=["C:\Path\To\App.exe"]
-MozillaFirefox=["C:\Path\To\App.exe"]
 MozillaThunderbird=["C:\Program Files (x86)\Mozilla Thunderbird\thunderbird.exe"]
 MSIAfterburner=["C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe"]
-Mumble=["C:\Program Files (x86)\Mumble\mumble.exe"]
-MusicBeeCurse=["C:\Path\To\App.exe"]
-NotepadPlusPlus=["C:\Program Files (x86)\Notepad++\notpad++.exe"]
 obs=["C:\Program Files (x86)\OBS\OBS.exe"]
 Onedrive=["C:\Path\To\App.exe"]
 OneFingerDeathPunch=["C:\Path\To\App.exe"]
-Opera=["C:\Path\To\App.exe"]
-PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
-Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
-RecycleBin=!execute [!RainmeterPluginBang "MeasureBinSize OpenBin"]
-;RecycleBin=["C:\Dropbox\Data\Shortcuts\Uninstall_Programs"] ;Uncomment this for "Uninstall programs"
-ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
-Search=["#CURRENTPATH#Search.exe"]
-Server=["C:\Path\To\App.exe"]
-Shadron=["C:\Path\To\App.exe"]
-Skype=["C:\Program Files (x86)\Skype\Phone\Skype.exe"]
 SonyVegas=["C:\Path\To\App.exe"]
 Speedrunners=["steam://rungameid/207140"]
-Spotify=["C:\Users\USERNAME\AppData\Roaming\Spotify"]
-SublimeText=["C:\Path\To\App.exe"]
-Teamspeak=["C:\Path\To\App.exe"]
 TeamViewer=["C:\Program Files (x86)\TeamViewer\TeamViewer.exe"]
-Terminal=["cmd"]
 Tunngle=["C:\Program Files (x86)\Tunngle\Tunngle.exe"]
-AAuTorrent=["C:\Users\Karl\AppData\Roaming\uTorrent\uTorrent.exe"]
-uTorrent=["%APPDATA%\uTorrent\uTorrent.exe"]
-VideosFolder=["C:\Users\USERNAME\Videos"]
-VLCMediaPlayer=["C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"]
-WindowsMediaPlayer=["%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe"]
-Winscp=["C:\Program Files (x86)\WinSCP\WinSCP.exe"]
-XBMC=["C:\Path\To\App.exe"]
 XSplit=["C:\Program Files (x86)\SplitmediaLabs\XSplit Broadcaster\XSplit.Core.exe"]
 
 ;;Sites;;
@@ -130,7 +145,8 @@ Twitch="http://www.twitch.tv/"
 Twitter="https://twitter.com"
 Youtube="https://www.youtube.com/"
 
-;;Game Digital Distribution;;
+;;Game and Mod Digital Distribution;;
+Curse=["C:\Users\USERNAME\AppData\Roaming\Curse Client\Bin\Curse.exe"]
 GOG=["C:\Path\To\App.exe"]
 Origin=["C:\Path\To\App.exe"]
 Steam=["C:\Program Files (x86)\Steam\Steam.exe"]
@@ -182,6 +198,7 @@ Skyrim=["steam://rungameid/72850"]
 Squad=["C:\Path\To\App.exe"]
 StardewValley="steam://rungameid/413150"
 TeamFortress=["steam://rungameid/440"]
+TechnicLauncher=["C:\Path\To\App.exe"]
 Terraria=["steam://rungameid/105600"]
 TheForest="steam://rungameid/242760"
 Undertale="steam://rungameid/391540"
@@ -190,8 +207,7 @@ Witcher=["steam://rungameid/292030"]
 WorldofTanks=["C:\Path\To\App.exe"]
 WoW=["C:\Path\To\App.exe"]
 
-;;GameDev;;
-Aseprite="steam://rungameid/431730"
+;;GameEngines;;
 GameMakerStudio"steam://rungameid/214850"
 Godot=["C:\Path\To\App.exe"]
 RPGMaker=["C:\Path\To\App.exe"]
