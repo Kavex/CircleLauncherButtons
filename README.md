@@ -73,13 +73,17 @@ Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
 
 RPGMaker=["C:\Path\To\App.exe"]
 
+RytmikUltimate="steam://rungameid/375840"
+
 ScarDivi=["C:\Program Files (x86)\SCAR Divi\bin\scar.exe"]
 
 Shadron=["C:\Path\To\App.exe"]
 
 Squad=["C:\Path\To\App.exe"]
 
-StardewValley="steam://rungameid/413150"
+StardewValley"steam://rungameid/413150"
+
+TechnicLauncher=["C:\Path\To\App.exe"]
 
 TheForest="steam://rungameid/242760"
 
