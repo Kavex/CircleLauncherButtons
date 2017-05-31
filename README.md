@@ -85,6 +85,8 @@ StardewValley"steam://rungameid/413150"
 
 TechnicLauncher=["C:\Path\To\App.exe"]
 
+Transmission=["C:\Path\To\App.exe"]
+
 TheForest="steam://rungameid/242760"
 
 Undertale="steam://rungameid/391540"
