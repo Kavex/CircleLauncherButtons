@@ -51,6 +51,10 @@ Publisher=["C:\Path\To\App.exe"]
 Visio=["C:\Path\To\App.exe"]
 Word=["C:\Path\To\App.exe"]
 
+;;Anti-Virus;;
+Avast=["C:\Path\To\App.exe"]
+AVG=["C:\Path\To\App.exe"]
+
 ;;Audio/Video;;
 AbletonLive=["C:\Path\To\App.exe"]
 AmazonMusic=["C:\Path\To\App.exe"]
@@ -60,6 +64,7 @@ iTunes=["C:\Path\To\App.exe"]
 Kodi=["C:\Program Files (x86)\Kodi\Kodi.exe"]
 MusicBee=["C:\Path\To\App.exe"]
 PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
+RytmikUltimate=["steam://rungameid/375840"]
 Spotify=["C:\Users\USERNAME\AppData\Roaming\Spotify"]
 VLCMediaPlayer=["C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"]
 Winamp=["C:\Path\To\App.exe"]
@@ -96,6 +101,7 @@ Shadron=["C:\Path\To\App.exe"]
 ;;Torrent;;
 Bittorrent=["C:\Path\To\App.exe"]
 AAuTorrent=["C:\Users\Karl\AppData\Roaming\uTorrent\uTorrent.exe"]
+Transmission=[""C:\Program Files\Transmission\transmission-qt.exe""]
 uTorrent=["%APPDATA%\uTorrent\uTorrent.exe"]
 
 ;;Voice;;
@@ -105,8 +111,6 @@ Skype=["C:\Program Files (x86)\Skype\Phone\Skype.exe"]
 Teamspeak=["C:\Path\To\App.exe"]
 
 ;;OtherPrograms;;
-Avast=["C:\Path\To\App.exe"]
-AVG=["C:\Path\To\App.exe"]
 Balabolka=["C:\Program Files (x86)\Balabolka\balabolka.exe"]
 CCleaner=["C:\Path\To\App.exe"]
 Crazybump=["C:\Path\To\App.exe"]
