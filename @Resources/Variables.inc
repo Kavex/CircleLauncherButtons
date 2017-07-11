@@ -78,6 +78,7 @@ Opera=["C:\Path\To\App.exe"]
 
 ;;Development;;
 Android Studio=["C:\Path\To\App.exe"]
+Arduino=["C:\Program Files (x86)\Arduino\arduino.exe"]
 AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
 Atom=["C:\Path\To\App.exe"]
 CodeBlocks=["C:\Path\To\App.exe"]
