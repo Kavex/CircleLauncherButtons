@@ -23,6 +23,8 @@ AmazonMusic=["C:\Path\To\App.exe"]
 
 ArcheAge="steam://rungameid/304030"
 
+Arduino=["C:\Program Files (x86)\Arduino\arduino.exe"]
+
 Aseprite="steam://rungameid/431730"
 
 AtlassianSourceTree=["C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe"]
