@@ -43,6 +43,8 @@ Doom="steam://rungameid/379720"
 
 FieldNation=["https://fieldnation.com"]
 
+Fusion360=["C:\Path\To\App.exe"]
+
 GameMakerStudio"steam://rungameid/214850"
 
 GarrysMod="steam://rungameid/4000"
@@ -100,6 +102,3 @@ Winscp=["C:\Program Files (x86)\WinSCP\WinSCP.exe"]
 WorldofTanks=["C:\Path\To\App.exe"]
 
 WorldofWarcraft=["C:\Program Files (x86)\World of Warcraft\World of Warcraft Launcher.exe"]
-
-
-
