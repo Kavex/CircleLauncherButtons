@@ -1,0 +1,1 @@
+This is my own personal button configuration with only the programs I am using. If you would like the custom version then please go to [Circle Launcher 2.11 (Custom Verison)](https://github.com/Kavex/CircleLauncherButtons/archive/Custom-Launcher.zip)
