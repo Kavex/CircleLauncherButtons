@@ -57,6 +57,7 @@ Curse=["C:\Users\USERNAME\AppData\Roaming\Curse Client\Bin\Curse.exe"]
 GOG=["C:\Path\To\App.exe"]
 Origin=["C:\Path\To\App.exe"]
 Steam=["C:\Program Files (x86)\Steam\Steam.exe"]
+TwitchApp=["C:\Path\To\App.exe"]
 UPlay=["C:\Path\To\App.exe"]
 
 ;;GameEngines;;
