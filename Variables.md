@@ -74,6 +74,8 @@ Transmission=["C:\Path\To\App.exe"]
 
 TheForest="steam://rungameid/242760"
 
+TwitchApp=["C:\Path\To\App.exe"]
+
 Undertale="steam://rungameid/391540"
 
 Winamp=["C:\Path\To\App.exe"]
