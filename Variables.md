@@ -52,6 +52,8 @@ osu!=["C:\Path\To\App.exe"]
 
 Overwatch=["C:\Program Files (x86)\Overwatch\Overwatch Launcher.exe"]
 
+Overwolf=["C:\Path\To\App.exe"]
+
 PopcornTime=["C:\Program Files (x86)\Popcorn Time\PopcornTimeDesktop.exe"]
 
 Putty=["C:\Program Files (x86)\PuTTY\putty.exe"]
