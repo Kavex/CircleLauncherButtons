@@ -4,6 +4,8 @@ AmazonMusic=["C:\Path\To\App.exe"]
 
 ArcheAge="steam://rungameid/304030"
 
+Arduboy=["C:\Path\To\App.exe"]
+
 Arduino=["C:\Program Files (x86)\Arduino\arduino.exe"]
 
 Aseprite="steam://rungameid/431730"
